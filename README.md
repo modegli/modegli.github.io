@@ -16,10 +16,6 @@
 | تويتش | [twitch.tv/modegli](https://www.twitch.tv/modegli) |
 | بوت تيليغرام | [@modegli_bot](https://t.me/modegli_bot) |
 
-## الملفات
-
-- `index.html`: الصفحة كاملة في ملف واحد، بدون أي خطوات بناء.
-
 ## التواصل
 
 للتعاون أو الاستفسار: modeglicontact@gmail.com
